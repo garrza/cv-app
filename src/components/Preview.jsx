@@ -42,7 +42,7 @@ const Preview = ({ formData }) => {
 
       <Section>
         <SectionTitle>Work Experience</SectionTitle>
-        <div>
+        <div>vv'
           <h4>{formData.workExperience.company}</h4>
           <p>{formData.workExperience.position}</p>
         </div>

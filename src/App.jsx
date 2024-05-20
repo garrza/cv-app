@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import MainPage from './components/MainPage'
-import './App.css'
+import "./styles/App.css";
 
 function App() {
 

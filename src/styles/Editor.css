@@ -1,0 +1,23 @@
+.vertical-stepper {
+    display: flex;
+    padding: 1rem;
+  }
+  
+.stepper {
+    flex-direction: column;
+    margin-right: 20px;
+    background-color: #4F6F52;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+
+.step {
+}
+  
+.active-component {
+    flex: 1;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+  }
